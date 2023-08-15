@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Fund-Donation-Portal/static/js/main.ac03fea2.js",
+    "main.js": "/Fund-Donation-Portal/static/js/main.833b17b5.js",
     "index.html": "/Fund-Donation-Portal/index.html",
-    "main.ac03fea2.js.map": "/Fund-Donation-Portal/static/js/main.ac03fea2.js.map"
+    "main.833b17b5.js.map": "/Fund-Donation-Portal/static/js/main.833b17b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac03fea2.js"
+    "static/js/main.833b17b5.js"
   ]
 }
